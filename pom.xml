@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.yodlee</groupId>
-	<artifactId>helloworldspringboot</artifactId>	
+	<artifactId>helloworldspringboot2</artifactId>	
 	<packaging>jar</packaging>
 
 	<name>helloworld</name>
